@@ -1,7 +1,7 @@
 import React from 'react'
 
 export default function support() {
-  return (
-    <div>support</div>
-  )
+ 
+       throw new Error("صفحه پشتیبانی در حال حاضر در دسترس نیست!");
+  
 }
